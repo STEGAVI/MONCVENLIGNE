@@ -5,6 +5,9 @@
     flex-direction: column;
     justify-content: center;
     background-color: #782221;
+    font-family: "lato", sans-serif;
+    color: #dbc2a4;
+    text-align: center;
 }
 
 .introduce__fig{
@@ -22,4 +25,15 @@
 
 .introduce__img{
     cursor: zoom-in;
+}
+
+.introduce__name{
+
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-size: 2.6em;
+}
+
+.introduce__job{
+    margin: 10px 0 50px 0;
 }
