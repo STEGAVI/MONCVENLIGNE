@@ -1,0 +1,7 @@
+@import url("./hobbies.css");
+@import url("./Fonts/Raleway-Italic.woff/Raleway-Regular_1.woff/Raleway_SemiBold.woff");
+
+main{
+    display: flex;
+    flex-direction: row;
+}

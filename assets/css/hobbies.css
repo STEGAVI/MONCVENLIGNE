@@ -1,0 +1,32 @@
+
+
+.hobbies{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    background-color: #782221;
+}
+
+.hobbies__titles{
+    background-color: #dbc2a4;
+    padding: 10px;
+    margin-right: 20px;
+    font-family: 'lato', sans-serif;
+    font-size: 1.2em;
+    color: #2c1d27;
+}
+
+.hobbies__text{
+    text-indent: 50px;
+    text-align: justify;
+    font-family: 'raleway', sans-serif;
+    font-size: 1em;
+    color: #dbc2a4;
+    padding: 0 20px;
+}
+
+.hobbies__lists{
+    font-family: 'raleway', sans-serif;
+    font-size: 1em;
+    color: #dbc2a4;
+}
