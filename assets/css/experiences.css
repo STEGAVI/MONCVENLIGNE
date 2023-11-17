@@ -1,0 +1,38 @@
+
+
+.experiences{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: 70%;
+    margin-left: 30px;
+}
+
+.experiences__titles{
+    padding: 10px 20px;
+    margin: 20px 20px 5px 20px;
+    background-color: #dbc2a4;
+    font-family: 'lato', sans-serif;
+    font-size: 1.2em;
+}
+
+.experiences__art{
+    margin: 0 30px;
+    text-align: justify;
+    font-family: 'raleway' sans-serif;
+    font-size: 1em;
+}
+
+.experiences__year{
+    font-family: 'Raleway_SemiBold', sans-serif;
+    font-size: 1em;
+}
+
+ul li{
+    font-family: 'raleway', sans-serif;
+}
+
+.experiences__titles:hover{
+    cursor: pointer;
+    border-left: solid 15px #782221;
+}
