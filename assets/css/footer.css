@@ -1,0 +1,20 @@
+
+
+.reseaux{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+    background-color: #782221;
+}
+
+.reseaux__logos{
+    width: 50px;
+    height: 50px;
+    margin: 20px 5px 50px;
+}
+
+.reseaux__logos:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
